@@ -1,5 +1,4 @@
 ## Hello, I'm Tio 👋
-
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -39,3 +38,6 @@ I'm Tio, a passionate software developer with experience in building web and mob
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/-tiofani03@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tiofani03@gmail.com)](mailto:tiofani03@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiofani03/)](https://www.linkedin.com/in/tiofani03/)
+
+
+[![An image of @tiofani03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tiofani03)](https://holopin.io/@tiofani03)
