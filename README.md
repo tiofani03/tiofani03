@@ -5,13 +5,6 @@
   <img src="https://wakatime.com/badge/user/018d1bee-1cfd-4dc1-b633-66876d014772.svg" alt="wakatime" />
 </p>
 
-<!-- animated banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:FF5252&height=200&section=header&text=Welcome&fontSize=40" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:FF5252&height=200&section=header&text=Welcome&fontSize=40&background=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:FF5252&height=200&section=header&text=Welcome&fontSize=40" alt="Waving banner" />
-</picture>
-
 ---
 
 ## 🚀 About Me
@@ -24,43 +17,34 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-### Languages
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-    </td>
-    <td valign="top" width="50%">
-
-### Tools & Platforms
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tiofani03&show_icons=true&theme=radical" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiofani03&layout=compact&theme=radical" height="170" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiofani03&show_icons=true&theme=radical&rank_icon=percentile" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiofani03&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
 
-## 🐍 Snake Contribution
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/tiofani03/tiofani03/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tiofani03/tiofani03/output/github-snake.svg" alt="snake" />
 
 ---
 
@@ -68,18 +52,16 @@
 
 <p>
   <a href="mailto:tiofani03@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tiofani03">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p>
-  <a href="https://holopin.io/@tiofani03">
-    <img src="https://holopin.me/tiofani03" alt="Holopin badges" />
-  </a>
-</p>
+<a href="https://holopin.io/@tiofani03">
+  <img src="https://holopin.me/tiofani03" alt="Holopin badges" />
+</a>
 
 ---
 
