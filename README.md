@@ -5,12 +5,9 @@
   <img src="https://wakatime.com/badge/user/018d1bee-1cfd-4dc1-b633-66876d014772.svg" alt="wakatime" />
 </p>
 
-<!-- animated banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:FF5252&height=200&section=header&text=Welcome&fontSize=40" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:FF5252&height=200&section=header&text=Welcome&fontSize=40&background=ffffff" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:FF5252&height=200&section=header&text=Welcome&fontSize=40" alt="Waving banner" />
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&width=500&lines=Mobile+Developer+%F0%9F%93%B1;Kotlin+%26+Java+Enthusiast+%E2%9C%A8;Android+%26+iOS+Native;Building+the+future+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -52,15 +49,24 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tiofani03&show_icons=true&theme=radical" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiofani03&layout=compact&theme=radical" height="170" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiofani03&show_icons=true&theme=radical&rank_icon=percentile" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiofani03&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tiofani03&theme=radical" height="170" />
 </p>
 
 ---
 
-## 🐍 Snake Contribution
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/tiofani03/tiofani03/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tiofani03/tiofani03/output/github-snake.svg" alt="snake" />
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiofani03&theme=radical&hide_border=true&area=true" alt="activity graph" />
+</p>
 
 ---
 
