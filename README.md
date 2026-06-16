@@ -75,6 +75,12 @@
   </a>
 </p>
 
+<p>
+  <a href="https://holopin.io/@tiofani03">
+    <img src="https://holopin.me/tiofani03" alt="Holopin badges" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
