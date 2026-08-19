@@ -32,20 +32,6 @@ I enjoy solving real problems, learning by building, and sharing things that mig
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=tiofani03&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=percentile&cache_seconds=86400"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiofani03&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=8&cache_seconds=86400"
-  />
-</p>
-
----
 
 ## Connect
 
